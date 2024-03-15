@@ -10,3 +10,6 @@ Fitur
 2. Izin & Sakit
 3. Alpha
 4. Rekap perBulan
+
+
+link figma : https://www.figma.com/file/XGdSevcNdzpPTHZugtw01W/Untitled?type=design&node-id=0-1&mode=design&t=mOnCGR0bTH8KVeFS-0
