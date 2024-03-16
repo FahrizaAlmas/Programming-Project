@@ -12,4 +12,4 @@ Fitur
 4. Rekap perBulan
 
 
-link figma : https://www.figma.com/file/XGdSevcNdzpPTHZugtw01W/Untitled?type=design&node-id=0-1&mode=design&t=mOnCGR0bTH8KVeFS-0
+link figma : https://www.figma.com/file/XGdSevcNdzpPTHZugtw01W/Untitled?type=design&node-id=0-1&mode=design&t=9A2pOrKE8Ws9lkGv-0
