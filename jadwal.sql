@@ -29,8 +29,8 @@ SET time_zone = "+00:00";
 
 CREATE TABLE `jadwal` (
   `id_jadwal` int(3) NOT NULL,
-  `jam_mulai` time DEFAULT NULL,
-  `jam_keluar` time DEFAULT NULL
+  `jam_mulai` time NOT NULL,
+  `jam_keluar` time NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
 
 --
