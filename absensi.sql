@@ -31,7 +31,7 @@ CREATE TABLE `absensi` (
   `id_absensi` int(3) NOT NULL,
   `jam_datang` time DEFAULT NULL,
   `jam_pulang` time DEFAULT NULL,
-  `nim` int(10) DEFAULT NULL,
+  `nim` bigint(10) DEFAULT NULL,
   `id_jadwal` int(3) DEFAULT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
 
